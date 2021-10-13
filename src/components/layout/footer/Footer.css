@@ -1,0 +1,26 @@
+.footer{
+    background-color: #3a3e64;
+    width: 100%;
+    color: #ffffff;
+    clear: both;
+}
+.social-icon >a {
+color: #ffffff;
+    font-size: 1.5em;
+    border: 2px solid #fff;
+    width: 1.9em;
+    display: inline-block;
+    height: 1.9em;
+    padding: 5px;
+    margin: 10px 5px;
+}
+
+.social-icon a i{
+    font-weight: 400;
+    color: #fff;
+}
+
+.footer-end{
+    background-color: #313455;
+    color: #a5a5a5;
+}

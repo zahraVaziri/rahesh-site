@@ -1,0 +1,8 @@
+.about-root{
+    border: 1px solid #000;
+    text-align: right;
+    padding: 15px;
+}
+.about-root p{
+    text-align: justify;
+}

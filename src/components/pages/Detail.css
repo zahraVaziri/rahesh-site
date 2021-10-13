@@ -1,0 +1,8 @@
+.detail-root{
+    border: 1px solid #000;
+    text-align: right;
+    
+}
+.detail-root p{
+    text-align: justify;
+}
